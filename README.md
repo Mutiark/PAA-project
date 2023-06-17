@@ -1,2 +1,2 @@
 # PAA-project
-project paa 2023
+project perancangan analisis dan algoritma 2023
